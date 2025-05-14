@@ -19,4 +19,4 @@ let m.isBot = m.id.startsWith('SkyMansion-') || m.id.startsWith('BAE5') && m.id.
 if (m.isBot) return;
 
 ```
-# Credit - Baileys by ds6 (https://github.com/ds6/bails)
+#### Credit - Baileys by ds6 (https://github.com/ds6/bails)
